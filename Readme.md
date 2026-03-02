@@ -198,6 +198,6 @@ MIT
 
 ## Author
 
-**Clarke Chen (陈星宇)**
+**Clarke Chan (陈星宇)**
 - Blog: [mrcxy.com](https://mrcxy.com)
 - Background: 2.5 years of industrial software development for Apple supply chain
