@@ -4,7 +4,6 @@
 # @File    : agent_main
 # @Project : industrial-ai-assistant
 
-# agent_main.py
 from langchain_openai import ChatOpenAI
 from langchain_core.tools import tool
 from langchain_core.messages import HumanMessage, SystemMessage, ToolMessage
