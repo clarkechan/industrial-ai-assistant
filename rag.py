@@ -39,7 +39,7 @@ splitter = RecursiveCharacterTextSplitter(
 chunks = splitter.split_documents(docs)
 print(f"分割成 {len(chunks)} 个文本块")
 
-# 4. 向量化 + 存入ChromaDB
+# 4. 向量化
 print("向量化存储中...（首次需要下载模型，稍等）")
 embeddings = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
